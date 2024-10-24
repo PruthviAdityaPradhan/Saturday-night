@@ -4,10 +4,15 @@ This project ranks the top N movies based on IMDb and Rotten Tomatoes scores usi
 
 # Features
 IMDb and Rotten Tomatoes Scores: Merges data from IMDb and Rotten Tomatoes to rank movies.
+
 Top N Movies: Generate rankings for the top 10, 20, 30, 50, or 100 movies.
+
 Data Preprocessing: Cleans and preprocesses data to ensure consistency before merging datasets.
+
 Normalization: Scales IMDb scores to match the Rotten Tomatoes 100-point scale.
+
 Visualizations: Optionally provides visualizations (charts) of top-ranked movies.
+
 CSV Export: Exports the ranked list of top movies to a CSV file for easy sharing or further analysis.
 
 
