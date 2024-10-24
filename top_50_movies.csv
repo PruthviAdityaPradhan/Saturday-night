@@ -1,0 +1,51 @@
+Title,Genre,Rating_IMDB,Year,Rating_RT,IMDB_Score_Normalized,Average_Score
+The Dark Knight,"Action,Crime,Drama",9.0,2008,94.0,90.0,92.0
+Up,"Animation,Adventure,Comedy",8.3,2009,98.0,83.0,90.5
+Toy Story 3,"Animation,Adventure,Comedy",8.3,2010,98.0,83.0,90.5
+Inside Out,"Animation,Adventure,Comedy",8.2,2015,98.0,82.0,90.0
+How to Train Your Dragon,"Animation,Action,Adventure",8.1,2010,99.0,81.0,90.0
+Zootopia,"Animation,Adventure,Comedy",8.1,2016,98.0,81.0,89.5
+Whiplash,"Drama,Music",8.5,2014,94.0,85.0,89.5
+The Lives of Others,"Drama,Thriller",8.5,2006,93.0,85.0,89.0
+Spotlight,"Crime,Drama,History",8.1,2015,97.0,81.0,89.0
+Mad Max: Fury Road,"Action,Adventure,Sci-Fi",8.1,2015,97.0,81.0,89.0
+Pan's Labyrinth,"Drama,Fantasy,War",8.2,2006,95.0,82.0,88.5
+Ratatouille,"Animation,Comedy,Family",8.0,2007,96.0,80.0,88.0
+Kubo and the Two Strings,"Animation,Adventure,Family",7.9,2016,97.0,79.0,88.0
+The Departed,"Crime,Drama,Thriller",8.5,2006,91.0,85.0,88.0
+12 Years a Slave,"Biography,Drama,History",8.1,2013,95.0,81.0,88.0
+Boyhood,Drama,7.9,2014,97.0,79.0,88.0
+Her,"Drama,Romance,Sci-Fi",8.0,2013,95.0,80.0,87.5
+Hunt for the Wilderpeople,"Adventure,Comedy,Drama",7.9,2016,96.0,79.0,87.5
+Casino Royale,"Action,Adventure,Thriller",8.0,2006,95.0,80.0,87.5
+Room,Drama,8.2,2015,93.0,82.0,87.5
+Sing Street,"Comedy,Drama,Music",8.0,2016,95.0,80.0,87.5
+Inception,"Action,Adventure,Sci-Fi",8.8,2010,87.0,88.0,87.5
+Manchester by the Sea,Drama,7.9,2016,96.0,79.0,87.5
+Star Trek,"Action,Adventure,Sci-Fi",8.0,2009,94.0,80.0,87.0
+The King's Speech,"Biography,Drama",8.0,2010,94.0,80.0,87.0
+Nightcrawler,"Crime,Drama,Thriller",7.9,2014,95.0,79.0,87.0
+Hell or High Water,"Crime,Drama,Thriller",7.7,2016,97.0,77.0,87.0
+No Country for Old Men,"Crime,Drama,Thriller",8.1,2007,93.0,81.0,87.0
+Selma,"Biography,Drama,History",7.5,2014,99.0,75.0,87.0
+Arrival,"Drama,Mystery,Sci-Fi",8.0,2016,94.0,80.0,87.0
+La La Land,"Comedy,Drama,Music",8.3,2016,91.0,83.0,87.0
+Gravity,"Drama,Sci-Fi,Thriller",7.8,2013,96.0,78.0,87.0
+The Bourne Ultimatum,"Action,Mystery,Thriller",8.1,2007,92.0,81.0,86.5
+Argo,"Biography,Drama,History",7.7,2012,96.0,77.0,86.5
+Moonlight,Drama,7.5,2016,98.0,75.0,86.5
+Dallas Buyers Club,"Biography,Drama",8.0,2013,93.0,80.0,86.5
+Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Fantasy",8.1,2015,92.0,81.0,86.5
+The Social Network,"Biography,Drama",7.7,2010,96.0,77.0,86.5
+Iron Man,"Action,Adventure,Sci-Fi",7.9,2008,94.0,79.0,86.5
+There Will Be Blood,"Drama,History",8.1,2007,92.0,81.0,86.5
+Brooklyn,"Drama,Romance",7.5,2015,97.0,75.0,86.0
+The Dark Knight Rises,"Action,Thriller",8.5,2012,87.0,85.0,86.0
+Inglourious Basterds,"Adventure,Drama,War",8.3,2009,89.0,83.0,86.0
+The Grand Budapest Hotel,"Adventure,Comedy,Drama",8.1,2014,91.0,81.0,86.0
+Guardians of the Galaxy,"Action,Adventure,Sci-Fi",8.1,2014,91.0,81.0,86.0
+Moonrise Kingdom,"Adventure,Comedy,Drama",7.8,2012,94.0,78.0,86.0
+Moana,"Animation,Adventure,Comedy",7.7,2016,95.0,77.0,86.0
+True Grit,"Adventure,Drama,Western",7.6,2010,96.0,76.0,86.0
+The Martian,"Adventure,Drama,Sci-Fi",8.0,2015,91.0,80.0,85.5
+Children of Men,"Drama,Sci-Fi,Thriller",7.9,2006,92.0,79.0,85.5
